@@ -79,6 +79,7 @@ li, .second-headingSubtext {
     min-height: 40px;
     max-width: 132px;
     font-size: 20px;
+    border-color: transparent;
 }
 
 
